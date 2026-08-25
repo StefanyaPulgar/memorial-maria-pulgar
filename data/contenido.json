@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "nombre": "Maria Eduvijis Pulgar Espinoza",
+    "fechaNacimiento": "1955",
+    "fechaFallecimiento": "2026",
+    "epitafio": "Su cariño se quedó tejido en cada uno de nosotros.",
+    "retrato": ""
+  },
+  "historia": {
+    "eyebrow": "Su historia",
+    "titulo": "Una vida de cariño sencillo",
+    "parrafos": [
+      "Aquí va un primer párrafo con la historia de vida de la persona: dónde nació, cómo era su día a día, qué la hacía reír. Este texto es un placeholder — reemplázalo con recuerdos reales de la familia.",
+      "Un segundo párrafo puede hablar de su familia, su trabajo, sus pasiones o los lugares que amaba. Mantén un tono cálido y cercano, como si se lo contaras a alguien que nunca la conoció.",
+      "Un tercer párrafo, opcional, puede cerrar con algo que la resuma: una frase que solía decir, una costumbre entrañable, o simplemente cómo la recuerda quienes la quisieron."
+    ]
+  },
+  "audioPrincipal": {
+    "src": "media/audios/principal.opus",
+    "titulo": "Su mensaje",
+    "duracion": "1:30"
+  },
+  "momentos": [
+    {
+      "src": "media/fotos/WhatsApp Image 2026-04-19 at 21.22.49.jpeg",
+      "alt": "WhatsApp Image 2026 04 19 at 21.22.49",
+      "label": "WhatsApp Image 2026 04 19 at 21.22.49",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-04-30 at 23.01.04.jpeg",
+      "alt": "WhatsApp Image 2026 04 30 at 23.01.04",
+      "label": "WhatsApp Image 2026 04 30 at 23.01.04",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-05-01 at 21.50.57.jpeg",
+      "alt": "WhatsApp Image 2026 05 01 at 21.50.57",
+      "label": "WhatsApp Image 2026 05 01 at 21.50.57",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-05-08 at 10.59.21.jpeg",
+      "alt": "WhatsApp Image 2026 05 08 at 10.59.21",
+      "label": "WhatsApp Image 2026 05 08 at 10.59.21",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-05-08 at 22.12.25.jpeg",
+      "alt": "WhatsApp Image 2026 05 08 at 22.12.25",
+      "label": "WhatsApp Image 2026 05 08 at 22.12.25",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-05-08 at 22.13.50.jpeg",
+      "alt": "WhatsApp Image 2026 05 08 at 22.13.50",
+      "label": "WhatsApp Image 2026 05 08 at 22.13.50",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-05-09 at 21.18.42.jpeg",
+      "alt": "WhatsApp Image 2026 05 09 at 21.18.42",
+      "label": "WhatsApp Image 2026 05 09 at 21.18.42",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-06-26 at 22.08.43.jpeg",
+      "alt": "WhatsApp Image 2026 06 26 at 22.08.43",
+      "label": "WhatsApp Image 2026 06 26 at 22.08.43",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-07-10 at 22.21.05.jpeg",
+      "alt": "WhatsApp Image 2026 07 10 at 22.21.05",
+      "label": "WhatsApp Image 2026 07 10 at 22.21.05",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-07-13 at 11.34.39.jpeg",
+      "alt": "WhatsApp Image 2026 07 13 at 11.34.39",
+      "label": "WhatsApp Image 2026 07 13 at 11.34.39",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-15 at 11.07.20.jpeg",
+      "alt": "WhatsApp Image 2026 08 15 at 11.07.20",
+      "label": "WhatsApp Image 2026 08 15 at 11.07.20",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-23 at 20.05.46.jpeg",
+      "alt": "WhatsApp Image 2026 08 23 at 20.05.46",
+      "label": "WhatsApp Image 2026 08 23 at 20.05.46",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-23 at 21.08.17.jpeg",
+      "alt": "WhatsApp Image 2026 08 23 at 21.08.17",
+      "label": "WhatsApp Image 2026 08 23 at 21.08.17",
+      "tamano": "wide"
+    }
+  ],
+  "audios": [
+    {
+      "src": "media/audios/WhatsApp Audio 2026-07-27 at 08.08.23 13.21.25.opus",
+      "titulo": "WhatsApp Audio 2026 07 27 at 08.08.23 13.21.25",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-07-28 at 09.03.16 13.21.25.opus",
+      "titulo": "WhatsApp Audio 2026 07 28 at 09.03.16 13.21.25",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-01 at 14.29.36 13.21.25.opus",
+      "titulo": "WhatsApp Audio 2026 08 01 at 14.29.36 13.21.25",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-07 at 21.34.44 13.21.25.opus",
+      "titulo": "WhatsApp Audio 2026 08 07 at 21.34.44 13.21.25",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-13 at 21.47.26 13.21.25.opus",
+      "titulo": "WhatsApp Audio 2026 08 13 at 21.47.26 13.21.25",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-15 at 17.20.14 13.21.25.opus",
+      "titulo": "WhatsApp Audio 2026 08 15 at 17.20.14 13.21.25",
+      "duracion": ""
+    }
+  ],
+  "videos": [
+    {
+      "src": "media/videos/WhatsApp Video 2026-04-24 at 08.23.07.mp4",
+      "titulo": "WhatsApp Video 2026 04 24 at 08.23.07",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-04-30 at 23.04.54.mp4",
+      "titulo": "WhatsApp Video 2026 04 30 at 23.04.54",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-13 at 12.06.41.mp4",
+      "titulo": "WhatsApp Video 2026 08 13 at 12.06.41",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-14 at 13.51.10.mp4",
+      "titulo": "WhatsApp Video 2026 08 14 at 13.51.10",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-14 at 19.39.40.mp4",
+      "titulo": "WhatsApp Video 2026 08 14 at 19.39.40",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-15 at 13.46.04.mp4",
+      "titulo": "WhatsApp Video 2026 08 15 at 13.46.04",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-20 at 10.00.45.mp4",
+      "titulo": "WhatsApp Video 2026 08 20 at 10.00.45",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-23 at 02.08.48.mp4",
+      "titulo": "WhatsApp Video 2026 08 23 at 02.08.48",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/WhatsApp Video 2026-08-24 at 10.53.37.mp4",
+      "titulo": "WhatsApp Video 2026 08 24 at 10.53.37",
+      "duracion": ""
+    }
+  ],
+  "aporte": {
+    "titulo": "Aporta un recuerdo",
+    "texto": "Si tienes una foto, un video o una historia que quieras compartir, nos encantaría sumarla a este espacio. Cada recuerdo ayuda a mantenerla presente.",
+    "textoBoton": "Compartir una foto",
+    "urlFormulario": "TODO_GOOGLE_FORM_URL"
+  },
+  "footer": {
+    "texto": "Hecho con cariño por su familia"
+  }
+}

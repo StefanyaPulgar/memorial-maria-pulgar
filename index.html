@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>En memoria</title>
+<meta name="description" content="Un espacio para recordarla.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<main>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero__portrait-wrap">
+      <div class="hero__portrait" id="hero-portrait">
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true" class="hero__portrait-icon">
+          <circle cx="12" cy="8" r="4" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M4 20c0-4.4 3.6-7 8-7s8 2.6 8 7" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <span class="hero__candle" aria-hidden="true"></span>
+    </div>
+
+    <h1 class="hero__name" id="hero-name">[Nombre Apellido]</h1>
+    <p class="hero__dates" id="hero-dates">1954 — 2026</p>
+    <p class="hero__epitaph" id="hero-epitaph">"Su cariño se quedó tejido en cada uno de nosotros."</p>
+
+    <div class="hero__audio" id="hero-audio" hidden>
+      <button class="hero__audio-play" id="hero-audio-play" type="button" aria-label="Reproducir mensaje">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+      </button>
+      <div class="hero__audio-info">
+        <p class="hero__audio-label">Escúchala</p>
+        <p class="hero__audio-title" id="hero-audio-title"></p>
+      </div>
+      <span class="hero__audio-duration" id="hero-audio-duration"></span>
+      <audio id="hero-audio-el" preload="none"></audio>
+    </div>
+  </section>
+
+  <!-- Su historia -->
+  <section class="section" id="historia">
+    <p class="eyebrow" id="historia-eyebrow">Su historia</p>
+    <h2 class="section__title" id="historia-titulo">Una vida de cariño sencillo</h2>
+    <div class="historia__texto" id="historia-parrafos"></div>
+  </section>
+
+  <!-- Momentos -->
+  <section class="section" id="momentos">
+    <p class="eyebrow">Momentos</p>
+    <h2 class="section__title">Fotografías</h2>
+    <div class="gallery" id="gallery"></div>
+  </section>
+
+  <!-- Su voz -->
+  <section class="section" id="voz">
+    <p class="eyebrow">Su voz</p>
+    <h2 class="section__title">Grabaciones</h2>
+    <ul class="thread-list" id="audio-list"></ul>
+  </section>
+
+  <!-- En movimiento -->
+  <section class="section" id="movimiento">
+    <p class="eyebrow">En movimiento</p>
+    <h2 class="section__title">Videos</h2>
+    <ul class="thread-list" id="video-list"></ul>
+  </section>
+
+  <!-- Aporta un recuerdo -->
+  <section class="section" id="aporte">
+    <div class="cta-card">
+      <h2 class="cta-card__title" id="aporte-titulo">Aporta un recuerdo</h2>
+      <p class="cta-card__texto" id="aporte-texto">
+        Si tienes una foto, un video o una historia que quieras compartir,
+        nos encantaría sumarla a este espacio. Cada recuerdo ayuda a mantenerla presente.
+      </p>
+      <a class="cta-card__btn" id="aporte-btn" href="#" target="_blank" rel="noopener">Compartir una foto</a>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p id="footer-texto">Hecho con cariño por su familia · <span id="footer-year"></span></p>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
