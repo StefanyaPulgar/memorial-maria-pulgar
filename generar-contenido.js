@@ -10,6 +10,8 @@
  *   - El archivo marcado como "audioPrincipal" en contenido.json (el
  *     mensaje destacado del hero) se excluye de la lista normal de audios,
  *     aunque viva en la misma carpeta media/audios.
+ *   - El archivo marcado como "retrato" en contenido.json se excluye de
+ *     la galería de momentos, aunque viva en la misma carpeta media/fotos.
  *
  * Uso: node generar-contenido.js
  * (Solo requiere Node.js, sin instalar nada más.)
@@ -65,7 +67,10 @@ function fusionarLista(existentes, archivos, carpeta, construirNuevo, nuevosOut)
 function main() {
   const data = JSON.parse(fs.readFileSync(DATA_PATH, "utf8"));
 
-  const archivosFotos = listarArchivos(CARPETAS.fotos.dir, CARPETAS.fotos.ext);
+  const srcRetrato = data.persona && data.persona.retrato;
+  const archivosFotos = listarArchivos(CARPETAS.fotos.dir, CARPETAS.fotos.ext).filter(
+    (nombre) => relPosix("media", "fotos", nombre) !== srcRetrato
+  );
   const srcPrincipal = data.audioPrincipal && data.audioPrincipal.src;
   const archivosAudios = listarArchivos(CARPETAS.audios.dir, CARPETAS.audios.ext).filter(
     (nombre) => relPosix("media", "audios", nombre) !== srcPrincipal

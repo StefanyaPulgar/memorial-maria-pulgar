@@ -4,7 +4,7 @@
     "fechaNacimiento": "1955",
     "fechaFallecimiento": "2026",
     "epitafio": "Su cariño se quedó tejido en cada uno de nosotros.",
-    "retrato": ""
+    "retrato": "media/fotos/retrato.png"
   },
   "historia": {
     "eyebrow": "Su historia",
@@ -22,81 +22,81 @@
   },
   "momentos": [
     {
-      "src": "media/fotos/WhatsApp Image 2026-04-19 at 21.22.49.jpeg",
-      "alt": "WhatsApp Image 2026 04 19 at 21.22.49",
-      "label": "WhatsApp Image 2026 04 19 at 21.22.49",
+      "src": "media/fotos/Comiendose una galletita.jpeg",
+      "alt": "Comiendose una galletita",
+      "label": "Comiendose una galletita",
       "tamano": "normal"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-04-30 at 23.01.04.jpeg",
-      "alt": "WhatsApp Image 2026 04 30 at 23.01.04",
-      "label": "WhatsApp Image 2026 04 30 at 23.01.04",
+      "src": "media/fotos/Con hermanos 1.jpeg",
+      "alt": "Con hermanos 1",
+      "label": "Con hermanos 1",
       "tamano": "tall"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-05-01 at 21.50.57.jpeg",
-      "alt": "WhatsApp Image 2026 05 01 at 21.50.57",
-      "label": "WhatsApp Image 2026 05 01 at 21.50.57",
+      "src": "media/fotos/Con hermanos 2.jpeg",
+      "alt": "Con hermanos 2",
+      "label": "Con hermanos 2",
       "tamano": "wide"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-05-08 at 10.59.21.jpeg",
-      "alt": "WhatsApp Image 2026 05 08 at 10.59.21",
-      "label": "WhatsApp Image 2026 05 08 at 10.59.21",
+      "src": "media/fotos/Con hermanos.jpeg",
+      "alt": "Con hermanos",
+      "label": "Con hermanos",
       "tamano": "normal"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-05-08 at 22.12.25.jpeg",
-      "alt": "WhatsApp Image 2026 05 08 at 22.12.25",
-      "label": "WhatsApp Image 2026 05 08 at 22.12.25",
+      "src": "media/fotos/Familia.jpeg",
+      "alt": "Familia",
+      "label": "Familia",
       "tamano": "tall"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-05-08 at 22.13.50.jpeg",
-      "alt": "WhatsApp Image 2026 05 08 at 22.13.50",
-      "label": "WhatsApp Image 2026 05 08 at 22.13.50",
+      "src": "media/fotos/Mateando.jpeg",
+      "alt": "Mateando",
+      "label": "Mateando",
       "tamano": "normal"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-05-09 at 21.18.42.jpeg",
-      "alt": "WhatsApp Image 2026 05 09 at 21.18.42",
-      "label": "WhatsApp Image 2026 05 09 at 21.18.42",
+      "src": "media/fotos/Nietos.jpeg",
+      "alt": "Nietos",
+      "label": "Nietos",
       "tamano": "tall"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-06-26 at 22.08.43.jpeg",
-      "alt": "WhatsApp Image 2026 06 26 at 22.08.43",
-      "label": "WhatsApp Image 2026 06 26 at 22.08.43",
+      "src": "media/fotos/Preparando empanadas.jpeg",
+      "alt": "Preparando empanadas",
+      "label": "Preparando empanadas",
       "tamano": "wide"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-07-10 at 22.21.05.jpeg",
-      "alt": "WhatsApp Image 2026 07 10 at 22.21.05",
-      "label": "WhatsApp Image 2026 07 10 at 22.21.05",
+      "src": "media/fotos/Pulguitas 1.jpeg",
+      "alt": "Pulguitas 1",
+      "label": "Pulguitas 1",
       "tamano": "normal"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-07-13 at 11.34.39.jpeg",
-      "alt": "WhatsApp Image 2026 07 13 at 11.34.39",
-      "label": "WhatsApp Image 2026 07 13 at 11.34.39",
+      "src": "media/fotos/Pulguitas.jpeg",
+      "alt": "Pulguitas",
+      "label": "Pulguitas",
       "tamano": "tall"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-08-15 at 11.07.20.jpeg",
-      "alt": "WhatsApp Image 2026 08 15 at 11.07.20",
-      "label": "WhatsApp Image 2026 08 15 at 11.07.20",
+      "src": "media/fotos/Reunion por cotito.jpeg",
+      "alt": "Reunion por cotito",
+      "label": "Reunion por cotito",
       "tamano": "normal"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-08-23 at 20.05.46.jpeg",
-      "alt": "WhatsApp Image 2026 08 23 at 20.05.46",
-      "label": "WhatsApp Image 2026 08 23 at 20.05.46",
+      "src": "media/fotos/Viqui 1.jpeg",
+      "alt": "Viqui 1",
+      "label": "Viqui 1",
       "tamano": "tall"
     },
     {
-      "src": "media/fotos/WhatsApp Image 2026-08-23 at 21.08.17.jpeg",
-      "alt": "WhatsApp Image 2026 08 23 at 21.08.17",
-      "label": "WhatsApp Image 2026 08 23 at 21.08.17",
+      "src": "media/fotos/Viqui.jpeg",
+      "alt": "Viqui",
+      "label": "Viqui",
       "tamano": "wide"
     }
   ],
@@ -104,11 +104,6 @@
     {
       "src": "media/audios/WhatsApp Audio 2026-07-27 at 08.08.23 13.21.25.opus",
       "titulo": "WhatsApp Audio 2026 07 27 at 08.08.23 13.21.25",
-      "duracion": ""
-    },
-    {
-      "src": "media/audios/WhatsApp Audio 2026-07-28 at 09.03.16 13.21.25.opus",
-      "titulo": "WhatsApp Audio 2026 07 28 at 09.03.16 13.21.25",
       "duracion": ""
     },
     {
@@ -134,48 +129,48 @@
   ],
   "videos": [
     {
-      "src": "media/videos/WhatsApp Video 2026-04-24 at 08.23.07.mp4",
-      "titulo": "WhatsApp Video 2026 04 24 at 08.23.07",
+      "src": "media/videos/Comiendo huevitos.mp4",
+      "titulo": "Comiendo huevitos",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-04-30 at 23.04.54.mp4",
-      "titulo": "WhatsApp Video 2026 04 30 at 23.04.54",
+      "src": "media/videos/Comiendo pantrucas.mp4",
+      "titulo": "Comiendo pantrucas",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-13 at 12.06.41.mp4",
-      "titulo": "WhatsApp Video 2026 08 13 at 12.06.41",
+      "src": "media/videos/Con hermanos.mp4",
+      "titulo": "Con hermanos",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-14 at 13.51.10.mp4",
-      "titulo": "WhatsApp Video 2026 08 14 at 13.51.10",
+      "src": "media/videos/Dando un paseo al patio.mp4",
+      "titulo": "Dando un paseo al patio",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-14 at 19.39.40.mp4",
-      "titulo": "WhatsApp Video 2026 08 14 at 19.39.40",
+      "src": "media/videos/Desde el hospital.mp4",
+      "titulo": "Desde el hospital",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-15 at 13.46.04.mp4",
-      "titulo": "WhatsApp Video 2026 08 15 at 13.46.04",
+      "src": "media/videos/Haciendo harina refregada.mp4",
+      "titulo": "Haciendo harina refregada",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-20 at 10.00.45.mp4",
-      "titulo": "WhatsApp Video 2026 08 20 at 10.00.45",
+      "src": "media/videos/Mensaje a la familia.mp4",
+      "titulo": "Mensaje a la familia",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-23 at 02.08.48.mp4",
-      "titulo": "WhatsApp Video 2026 08 23 at 02.08.48",
+      "src": "media/videos/Recuerdos.mp4",
+      "titulo": "Recuerdos",
       "duracion": ""
     },
     {
-      "src": "media/videos/WhatsApp Video 2026-08-24 at 10.53.37.mp4",
-      "titulo": "WhatsApp Video 2026 08 24 at 10.53.37",
+      "src": "media/videos/Uslereando.mp4",
+      "titulo": "Uslereando",
       "duracion": ""
     }
   ],
