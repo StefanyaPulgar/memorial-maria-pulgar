@@ -91,17 +91,16 @@
     });
   }
 
-  var GALLERY_PAGE_SIZE = 30; // grilla de 3x10
+  var GALLERY_PAGE_SIZE = 12; // grilla de 3x4 por página
   var openLightbox = function () {};
 
   function renderGallery(momentos) {
     var items = momentos || [];
     var gallery = document.getElementById("gallery");
+    var moreWrap = document.getElementById("gallery-more");
+    var moreBtn = document.getElementById("gallery-more-btn");
     gallery.innerHTML = "";
     initLightbox(items);
-
-    var sentinel = el("div", "gallery__sentinel");
-    gallery.appendChild(sentinel);
 
     var renderedCount = 0;
 
@@ -124,7 +123,7 @@
       }
 
       button.addEventListener("click", function () { openLightbox(index); });
-      gallery.insertBefore(button, sentinel);
+      gallery.appendChild(button);
     }
 
     function renderNextPage() {
@@ -133,18 +132,26 @@
         appendThumbnail(items[i], i);
       }
       renderedCount = end;
-      if (renderedCount >= items.length) {
-        observer.disconnect();
-        sentinel.remove();
+      updateMoreButton();
+    }
+
+    function updateMoreButton() {
+      if (!moreWrap) return;
+      var restantes = items.length - renderedCount;
+      if (restantes > 0) {
+        moreWrap.hidden = false;
+        moreBtn.textContent =
+          "Ver más fotos (" + restantes + ")";
+      } else {
+        moreWrap.hidden = true;
       }
     }
 
-    var observer = new IntersectionObserver(function (entries) {
-      if (entries[0].isIntersecting) renderNextPage();
-    }, { rootMargin: "600px" });
+    if (moreBtn) {
+      moreBtn.onclick = renderNextPage;
+    }
 
     renderNextPage();
-    if (renderedCount < items.length) observer.observe(sentinel);
   }
 
   function initLightbox(items) {
@@ -312,6 +319,60 @@
     });
   }
 
+  function renderDespedida(despedida) {
+    if (!despedida) return;
+    var section = document.getElementById("despedida");
+    var audioData = despedida.audio;
+    if (!audioData || !audioData.src) return;
+
+    if (despedida.eyebrow) {
+      document.getElementById("despedida-eyebrow").textContent = despedida.eyebrow;
+    }
+    if (despedida.titulo) {
+      document.getElementById("despedida-titulo").textContent = despedida.titulo;
+    }
+    var textoEl = document.getElementById("despedida-texto");
+    if (despedida.texto) {
+      textoEl.textContent = despedida.texto;
+    } else {
+      textoEl.hidden = true;
+    }
+
+    var button = document.getElementById("despedida-audio-play");
+    var titleEl = document.getElementById("despedida-audio-title");
+    var durationEl = document.getElementById("despedida-audio-duration");
+    var audio = document.getElementById("despedida-audio-el");
+
+    titleEl.textContent = audioData.titulo || "Audio final";
+    durationEl.textContent = audioData.duracion || "";
+    audio.src = audioData.src;
+    section.hidden = false;
+
+    button.addEventListener("click", function () {
+      var isPlaying = !audio.paused;
+      document.querySelectorAll("audio").forEach(function (a) {
+        if (a !== audio) a.pause();
+      });
+      if (isPlaying) {
+        audio.pause();
+      } else {
+        audio.play().catch(function () {});
+      }
+    });
+
+    audio.addEventListener("play", function () {
+      button.innerHTML = ICON_PAUSE;
+      button.setAttribute("aria-label", "Pausar " + (audioData.titulo || "audio final"));
+    });
+    audio.addEventListener("pause", function () {
+      button.innerHTML = ICON_PLAY;
+      button.setAttribute("aria-label", "Reproducir " + (audioData.titulo || "audio final"));
+    });
+    audio.addEventListener("ended", function () {
+      button.innerHTML = ICON_PLAY;
+    });
+  }
+
   function renderAporte(aporte) {
     if (!aporte) return;
     var titulo = document.getElementById("aporte-titulo");
@@ -342,6 +403,7 @@
       renderGallery(data.momentos);
       renderAudios(data.audios);
       renderVideos(data.videos);
+      renderDespedida(data.despedida);
       renderAporte(data.aporte);
       renderFooter(data.footer);
     })

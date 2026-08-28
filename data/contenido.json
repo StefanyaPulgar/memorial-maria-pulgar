@@ -718,6 +718,16 @@
       "duracion": ""
     }
   ],
+  "despedida": {
+    "eyebrow": "Para cerrar",
+    "titulo": "Una última palabra",
+    "texto": "Gracias por acompañarnos hasta aquí. Te dejamos con su voz.",
+    "audio": {
+      "src": "media/audios/Audio final.opus",
+      "titulo": "Audio final",
+      "duracion": ""
+    }
+  },
   "aporte": {
     "titulo": "Aporta un recuerdo",
     "texto": "Si tienes una foto, un video o una historia que quieras compartir, nos encantaría sumarla a este espacio. Cada recuerdo ayuda a mantenerla presente.",

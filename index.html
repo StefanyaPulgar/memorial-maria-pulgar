@@ -55,6 +55,9 @@
     <p class="eyebrow">Momentos</p>
     <h2 class="section__title">Fotografías</h2>
     <div class="gallery" id="gallery"></div>
+    <div class="gallery-more" id="gallery-more" hidden>
+      <button class="gallery-more__btn" id="gallery-more-btn" type="button">Ver más fotos</button>
+    </div>
   </section>
 
   <!-- Su voz -->
@@ -80,6 +83,25 @@
         nos encantaría sumarla a este espacio. Cada recuerdo ayuda a mantenerla presente.
       </p>
       <a class="cta-card__btn" id="aporte-btn" href="#" target="_blank" rel="noopener">Compartir una foto</a>
+    </div>
+  </section>
+
+  <!-- Despedida -->
+  <section class="section section--despedida" id="despedida" hidden>
+    <p class="eyebrow" id="despedida-eyebrow">Para cerrar</p>
+    <h2 class="section__title" id="despedida-titulo">Una última palabra</h2>
+    <p class="despedida__texto" id="despedida-texto"></p>
+
+    <div class="hero__audio despedida__audio" id="despedida-audio-wrap">
+      <button class="hero__audio-play" id="despedida-audio-play" type="button" aria-label="Reproducir audio final">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+      </button>
+      <div class="hero__audio-info">
+        <p class="hero__audio-label">Escúchala</p>
+        <p class="hero__audio-title" id="despedida-audio-title"></p>
+      </div>
+      <span class="hero__audio-duration" id="despedida-audio-duration"></span>
+      <audio id="despedida-audio-el" preload="none"></audio>
     </div>
   </section>
 
