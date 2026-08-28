@@ -22,6 +22,30 @@
   },
   "momentos": [
     {
+      "src": "media/fotos/66118914_103446287627330_4678264445376397312_n.jpg",
+      "alt": "66118914 103446287627330 4678264445376397312 n",
+      "label": "66118914 103446287627330 4678264445376397312 n",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/67217184_112308896741069_3456076083336577024_n.jpg",
+      "alt": "67217184 112308896741069 3456076083336577024 n",
+      "label": "67217184 112308896741069 3456076083336577024 n",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/73222237_138267360811889_3350604734657462272_n.jpg",
+      "alt": "73222237 138267360811889 3350604734657462272 n",
+      "label": "73222237 138267360811889 3350604734657462272 n",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/470585733_1265520004753280_5475851545504724458_n.jpg",
+      "alt": "470585733 1265520004753280 5475851545504724458 n",
+      "label": "470585733 1265520004753280 5475851545504724458 n",
+      "tamano": "normal"
+    },
+    {
       "src": "media/fotos/Comiendose una galletita.jpeg",
       "alt": "Comiendose una galletita",
       "label": "Comiendose una galletita",
@@ -98,6 +122,456 @@
       "alt": "Viqui",
       "label": "Viqui",
       "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.08.08.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.08.08",
+      "label": "WhatsApp Image 2026 08 26 at 00.08.08",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.08.24.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.08.24",
+      "label": "WhatsApp Image 2026 08 26 at 00.08.24",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.11.16.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.11.16",
+      "label": "WhatsApp Image 2026 08 26 at 00.11.16",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.11.47.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.11.47",
+      "label": "WhatsApp Image 2026 08 26 at 00.11.47",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.14.33.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.14.33",
+      "label": "WhatsApp Image 2026 08 26 at 00.14.33",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.15.55.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.15.55",
+      "label": "WhatsApp Image 2026 08 26 at 00.15.55",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.16.07.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.16.07",
+      "label": "WhatsApp Image 2026 08 26 at 00.16.07",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.16.22.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.16.22",
+      "label": "WhatsApp Image 2026 08 26 at 00.16.22",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.16.40.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.16.40",
+      "label": "WhatsApp Image 2026 08 26 at 00.16.40",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.16.51.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.16.51",
+      "label": "WhatsApp Image 2026 08 26 at 00.16.51",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.17.04.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.17.04",
+      "label": "WhatsApp Image 2026 08 26 at 00.17.04",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.30.17.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.30.17",
+      "label": "WhatsApp Image 2026 08 26 at 00.30.17",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.30.30.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.30.30",
+      "label": "WhatsApp Image 2026 08 26 at 00.30.30",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.30.42.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.30.42",
+      "label": "WhatsApp Image 2026 08 26 at 00.30.42",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.30.51.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.30.51",
+      "label": "WhatsApp Image 2026 08 26 at 00.30.51",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.31.01.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.31.01",
+      "label": "WhatsApp Image 2026 08 26 at 00.31.01",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.31.15.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.31.15",
+      "label": "WhatsApp Image 2026 08 26 at 00.31.15",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.38.59.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.38.59",
+      "label": "WhatsApp Image 2026 08 26 at 00.38.59",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.39.01.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.39.01",
+      "label": "WhatsApp Image 2026 08 26 at 00.39.01",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.39.28.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.39.28",
+      "label": "WhatsApp Image 2026 08 26 at 00.39.28",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.39.43.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.39.43",
+      "label": "WhatsApp Image 2026 08 26 at 00.39.43",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.40.24.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.40.24",
+      "label": "WhatsApp Image 2026 08 26 at 00.40.24",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.40.42.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.40.42",
+      "label": "WhatsApp Image 2026 08 26 at 00.40.42",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.40.59.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.40.59",
+      "label": "WhatsApp Image 2026 08 26 at 00.40.59",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.41.08.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.41.08",
+      "label": "WhatsApp Image 2026 08 26 at 00.41.08",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.41.36.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.41.36",
+      "label": "WhatsApp Image 2026 08 26 at 00.41.36",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.43.13.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.43.13",
+      "label": "WhatsApp Image 2026 08 26 at 00.43.13",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.43.31.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.43.31",
+      "label": "WhatsApp Image 2026 08 26 at 00.43.31",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.43.43.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.43.43",
+      "label": "WhatsApp Image 2026 08 26 at 00.43.43",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.43.56.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.43.56",
+      "label": "WhatsApp Image 2026 08 26 at 00.43.56",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.44.11.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.44.11",
+      "label": "WhatsApp Image 2026 08 26 at 00.44.11",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.44.18.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.44.18",
+      "label": "WhatsApp Image 2026 08 26 at 00.44.18",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.44.49.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.44.49",
+      "label": "WhatsApp Image 2026 08 26 at 00.44.49",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.46.10.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.46.10",
+      "label": "WhatsApp Image 2026 08 26 at 00.46.10",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.46.18.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.46.18",
+      "label": "WhatsApp Image 2026 08 26 at 00.46.18",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.46.25.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.46.25",
+      "label": "WhatsApp Image 2026 08 26 at 00.46.25",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-26 at 00.54.39.jpeg",
+      "alt": "WhatsApp Image 2026 08 26 at 00.54.39",
+      "label": "WhatsApp Image 2026 08 26 at 00.54.39",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 12.47.34.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 12.47.34",
+      "label": "WhatsApp Image 2026 08 27 at 12.47.34",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.24.47 (1).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.24.47 (1)",
+      "label": "WhatsApp Image 2026 08 27 at 13.24.47 (1)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.24.47.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.24.47",
+      "label": "WhatsApp Image 2026 08 27 at 13.24.47",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.29.23.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.29.23",
+      "label": "WhatsApp Image 2026 08 27 at 13.29.23",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.30.15.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.30.15",
+      "label": "WhatsApp Image 2026 08 27 at 13.30.15",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.32.02 (1).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.32.02 (1)",
+      "label": "WhatsApp Image 2026 08 27 at 13.32.02 (1)",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.32.02 (2).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.32.02 (2)",
+      "label": "WhatsApp Image 2026 08 27 at 13.32.02 (2)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.32.02 (3).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.32.02 (3)",
+      "label": "WhatsApp Image 2026 08 27 at 13.32.02 (3)",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.32.02.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.32.02",
+      "label": "WhatsApp Image 2026 08 27 at 13.32.02",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.46.03 (1).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.46.03 (1)",
+      "label": "WhatsApp Image 2026 08 27 at 13.46.03 (1)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.46.03 (2).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.46.03 (2)",
+      "label": "WhatsApp Image 2026 08 27 at 13.46.03 (2)",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.46.03.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.46.03",
+      "label": "WhatsApp Image 2026 08 27 at 13.46.03",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.46.04.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.46.04",
+      "label": "WhatsApp Image 2026 08 27 at 13.46.04",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.13 (1).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.13 (1)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.13 (1)",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.13 (2).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.13 (2)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.13 (2)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.13 (3).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.13 (3)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.13 (3)",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.13 (4).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.13 (4)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.13 (4)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.13.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.13",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.13",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.14 (1).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.14 (1)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.14 (1)",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.14 (2).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.14 (2)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.14 (2)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.14 (3).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.14 (3)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.14 (3)",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.14 (4).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.14 (4)",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.14 (4)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.47.14.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.47.14",
+      "label": "WhatsApp Image 2026 08 27 at 13.47.14",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.48.18.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.48.18",
+      "label": "WhatsApp Image 2026 08 27 at 13.48.18",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.49.44 (1).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.49.44 (1)",
+      "label": "WhatsApp Image 2026 08 27 at 13.49.44 (1)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.49.44 (2).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.49.44 (2)",
+      "label": "WhatsApp Image 2026 08 27 at 13.49.44 (2)",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.49.44 (3).jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.49.44 (3)",
+      "label": "WhatsApp Image 2026 08 27 at 13.49.44 (3)",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.49.44.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.49.44",
+      "label": "WhatsApp Image 2026 08 27 at 13.49.44",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.49.45.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.49.45",
+      "label": "WhatsApp Image 2026 08 27 at 13.49.45",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.50.33.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.50.33",
+      "label": "WhatsApp Image 2026 08 27 at 13.50.33",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.51.13.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.51.13",
+      "label": "WhatsApp Image 2026 08 27 at 13.51.13",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.51.26.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.51.26",
+      "label": "WhatsApp Image 2026 08 27 at 13.51.26",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.55.24.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.55.24",
+      "label": "WhatsApp Image 2026 08 27 at 13.55.24",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.57.14.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.57.14",
+      "label": "WhatsApp Image 2026 08 27 at 13.57.14",
+      "tamano": "wide"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.57.48.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.57.48",
+      "label": "WhatsApp Image 2026 08 27 at 13.57.48",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.58.15.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.58.15",
+      "label": "WhatsApp Image 2026 08 27 at 13.58.15",
+      "tamano": "tall"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.58.54.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.58.54",
+      "label": "WhatsApp Image 2026 08 27 at 13.58.54",
+      "tamano": "normal"
+    },
+    {
+      "src": "media/fotos/WhatsApp Image 2026-08-27 at 13.59.06.jpeg",
+      "alt": "WhatsApp Image 2026 08 27 at 13.59.06",
+      "label": "WhatsApp Image 2026 08 27 at 13.59.06",
+      "tamano": "tall"
     }
   ],
   "audios": [
@@ -125,9 +599,59 @@
       "src": "media/audios/WhatsApp Audio 2026-08-15 at 17.20.14 13.21.25.opus",
       "titulo": "WhatsApp Audio 2026 08 15 at 17.20.14 13.21.25",
       "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 12.49.00.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 12.49.00",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 12.51.33.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 12.51.33",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 12.55.52.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 12.55.52",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 13.01.59.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 13.01.59",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 13.28.36.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 13.28.36",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 13.35.20.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 13.35.20",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 13.38.18.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 13.38.18",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 13.40.05.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 13.40.05",
+      "duracion": ""
+    },
+    {
+      "src": "media/audios/WhatsApp Audio 2026-08-27 at 13.42.15.opus",
+      "titulo": "WhatsApp Audio 2026 08 27 at 13.42.15",
+      "duracion": ""
     }
   ],
   "videos": [
+    {
+      "src": "media/videos/Cantando y disfrutando.mp4",
+      "titulo": "Cantando y disfrutando",
+      "duracion": ""
+    },
     {
       "src": "media/videos/Comiendo huevitos.mp4",
       "titulo": "Comiendo huevitos",
@@ -144,6 +668,16 @@
       "duracion": ""
     },
     {
+      "src": "media/videos/Cumpleaños tia juany.mp4",
+      "titulo": "Cumpleaños tia juany",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/Cumpleaños.mp4",
+      "titulo": "Cumpleaños",
+      "duracion": ""
+    },
+    {
       "src": "media/videos/Dando un paseo al patio.mp4",
       "titulo": "Dando un paseo al patio",
       "duracion": ""
@@ -151,6 +685,16 @@
     {
       "src": "media/videos/Desde el hospital.mp4",
       "titulo": "Desde el hospital",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/Familia.mp4",
+      "titulo": "Familia",
+      "duracion": ""
+    },
+    {
+      "src": "media/videos/Feliz cumpleaños.mp4",
+      "titulo": "Feliz cumpleaños",
       "duracion": ""
     },
     {
